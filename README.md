@@ -6,7 +6,6 @@
 
 
 ## Project Stack
-------------------
 ## Client
 * React-Native
 * React-Navigator
